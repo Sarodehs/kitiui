@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sarodehs/kirtitoday.github.io.git/static/css/main.e6c13ad2.css",
-    "main.js": "/Sarodehs/kirtitoday.github.io.git/static/js/main.ff775c53.js",
-    "static/js/787.d945e247.chunk.js": "/Sarodehs/kirtitoday.github.io.git/static/js/787.d945e247.chunk.js",
-    "index.html": "/Sarodehs/kirtitoday.github.io.git/index.html",
-    "main.e6c13ad2.css.map": "/Sarodehs/kirtitoday.github.io.git/static/css/main.e6c13ad2.css.map",
-    "main.ff775c53.js.map": "/Sarodehs/kirtitoday.github.io.git/static/js/main.ff775c53.js.map",
-    "787.d945e247.chunk.js.map": "/Sarodehs/kirtitoday.github.io.git/static/js/787.d945e247.chunk.js.map"
+    "main.css": "/Sarodehs/kitiui.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/Sarodehs/kitiui.github.io/static/js/main.917249c5.js",
+    "static/js/787.d945e247.chunk.js": "/Sarodehs/kitiui.github.io/static/js/787.d945e247.chunk.js",
+    "index.html": "/Sarodehs/kitiui.github.io/index.html",
+    "main.e6c13ad2.css.map": "/Sarodehs/kitiui.github.io/static/css/main.e6c13ad2.css.map",
+    "main.917249c5.js.map": "/Sarodehs/kitiui.github.io/static/js/main.917249c5.js.map",
+    "787.d945e247.chunk.js.map": "/Sarodehs/kitiui.github.io/static/js/787.d945e247.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ff775c53.js"
+    "static/js/main.917249c5.js"
   ]
 }
